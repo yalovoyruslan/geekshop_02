@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/ruslan/Desktop/djangoBasics/venv/python",
+    "python.pythonPath": "/home/ruslan/Desktop/djangoBasics/venv/bin/python",
     "python.languageServer": "Pylance",
     "python.experiments.optOutFrom": ["All"],
     "editor.fontSize": 14,
